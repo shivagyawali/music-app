@@ -13,7 +13,7 @@ https://github.com/shivagyawali/music-app.git
 
 1. Node JS : Install NodeJS from https://nodejs.org/
 2. Expo CLI : ```npm install -g expo-cli``` Install Expo cli tool
-3. Git : ```git clone https://github.com/AdamOnLinux/pet_id_app.git``` Strongly suggested to clone into `C:\` or similar so you end up with `C:\pet_id_app` or a similar very SHORT path (long paths will often cause ```npm install``` to fail on windows since some dependencies will end up in subfolders that are longer than 256 characters)
+3. Git : ```git clone https://github.com/shivagyawali/music-app.gi``` Strongly suggested to clone into `C:\` or similar so you end up with `C:\music-app` or a similar very SHORT path (long paths will often cause ```npm install``` to fail on windows since some dependencies will end up in subfolders that are longer than 256 characters)
 4. Check out latest project from Git repository
 5. VS Code : Install VSCode From https://code.visualstudio.com/
 6. Create an Expo account  and login that in default browser: https://expo.io/
